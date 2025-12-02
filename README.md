@@ -7,9 +7,8 @@
 > "Pain is just growth in disguise." – Akatsuki
 
 I’m Dushyant, a lone shinobi diving deep into C, Go, Python, Java, and all forbidden scrolls of coding.  
-I lurk in the shadows, mastering tech like a true Akatsuki member.  
-Currently summoning powers with Golang and C++.  
-Arch Linux is my personal black cloak – silent, deadly, unstoppable.  
+I lurk in the shadows, mastering tech like a true Akatsuki member.   
+
 
 ---
 
@@ -32,3 +31,19 @@ Arch Linux is my personal black cloak – silent, deadly, unstoppable.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS" /> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JS" /> 
 </div>
+
+---
+
+## 📊 GitHub Stats
+![](https://github-readme-stats.vercel.app/api?username=dushyantyx&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=dushyantyx&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=dushyantyx&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=dushyantyx&theme=dark&no-frame=false&no-bg=true&margin-w=4)
+
+---
+
+*Walking the path of the shadows, coding like an Akatsuki. ☁️*  
