@@ -283,9 +283,6 @@ fun_fact: "I debug code faster at 3 AM ☕"
   <a href="https://discord.com/users/1437155167861735435" target="_blank">
     <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white&color=00D9FF"/>
   </a>
-  <a href="mailto:your-email@example.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=9D4EDD"/>
-  </a>
   <a href="https://github.com/dushyantyx" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&color=1DB954"/>
   </a>
@@ -346,36 +343,6 @@ fun_fact: "I debug code faster at 3 AM ☕"
 <!-- ═══════════════════════════════════════════════════════════════════════════════════════════════ -->
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<!-- ═══════════════════════════════════════════════════════════════════════════════════════════════ -->
-<!-- 🎵 NOW PLAYING / SPOTIFY -->
-<!-- ═══════════════════════════════════════════════════════════════════════════════════════════════ -->
-
-<div align="center">
-
-## 🎵 Vibing To 🎵
-
-<p align="center">
-  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31mh2j4yb5ey6vktqx4kzr4jxb2q&cover_image=true&theme=novatorem&show_offline=false&background_color=0d1117&interchange=true&bar_color=FF6B9D&bar_color_cover=false" alt="Spotify Now Playing"/>
-</p>
-
-</div>
-
-<!-- ═══════════════════════════════════════════════════════════════════════════════════════════════ -->
-<!-- 🌟 SUPPORT SECTION -->
-<!-- ═══════════════════════════════════════════════════════════════════════════════════════════════ -->
-
-<div align="center">
-
-## ☕ Support Me ☕
-
-<p align="center">
-  <a href="https://www.buymeacoffee.com" target="_blank">
-    <img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"/>
-  </a>
-</p>
-
-</div>
 
 <!-- ═══════════════════════════════════════════════════════════════════════════════════════════════ -->
 <!-- 🌈 FOOTER SECTION -->
