@@ -5,7 +5,7 @@ on:
     branches:
       - main
   schedule:
-    - cron: '0 0 * * *' # every day at midnight UTC
+    - cron: '0 0 * * *'  # runs daily
 
 jobs:
   banner:
@@ -18,18 +18,16 @@ jobs:
         with:
           python-version: '3.x'
 
-      - name: Install dependencies
-        run: |
-          pip install pillow cairosvg
+      - name: Install Pillow
+        run: pip install pillow
 
-      - name: Generate Animated Banner
-        run: |
-          python scripts/generate_banner.py
+      - name: Run banner script
+        run: python scripts/generate_banner.py
 
-      - name: Commit banner
+      - name: Commit & push
         run: |
           git config --local user.name "github-actions[bot]"
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git add output/akatsuki_banner.gif
-          git commit -m "Update Akatsuki banner" || echo "No changes to commit"
+          git commit -m "Update Akatsuki banner" || echo "No changes"
           git push
